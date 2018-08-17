@@ -1,0 +1,2 @@
+# gdi
+global dependencies installer
