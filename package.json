@@ -1,0 +1,22 @@
+{
+  "name": "gdi",
+  "version": "0.1.0",
+  "description": "global dependencies installer",
+  "main": "gdi.js",
+  "author": "Andrey Sakharov",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^2.17.1",
+    "executive": "^1.6.3"
+  },
+  "devDependencies": {
+    "@types/node": "^10.7.1",
+    "ts-loader": "^4.4.2",
+    "tslint": "^5.11.0",
+    "typescript": "^3.0.1"
+  },
+  "globalDependencies": {
+    "@angular/cli": "^6.1.3",
+    "express-generator": "^4.16.0"
+  }
+}
