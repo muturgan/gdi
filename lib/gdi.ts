@@ -24,7 +24,7 @@ program
                 if (packages.length) {
                     // let packagesString = '';
                     // for (let pack in packages) {
-                    //     packagesString += `${pack} `;
+                    //     packagesString += `${pack} `; //---
                     // }
                     // console.log(`npm i ${packagesString}`);
                     // exec(`npm i ${packagesString}`);
