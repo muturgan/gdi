@@ -3,8 +3,13 @@
   "version": "0.1.0",
   "description": "global dependencies installer",
   "main": "gdi.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/muturgan/gdi.git"
+  },
   "author": "Andrey Sakharov",
   "license": "ISC",
+  "homepage": "https://github.com/muturgan/gdi/blob/master/README.md",
   "dependencies": {
     "commander": "^2.17.1",
     "executive": "^1.6.3"
